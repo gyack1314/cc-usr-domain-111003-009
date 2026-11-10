@@ -1,0 +1,227 @@
+[
+  {
+    "id": "S1",
+    "category": "扫描",
+    "title": "1948叶面 2r",
+    "revision": 1,
+    "fields": {
+      "edition": "1948",
+      "leaf": "2r",
+      "chapter": "二",
+      "work": "HB-H2",
+      "illustrations": []
+    }
+  },
+  {
+    "id": "S2",
+    "category": "扫描",
+    "title": "1948叶面 2v",
+    "revision": 1,
+    "fields": {
+      "edition": "1948",
+      "leaf": "2v",
+      "chapter": "二",
+      "work": "HB-H2",
+      "illustrations": [
+        "F1"
+      ]
+    }
+  },
+  {
+    "id": "S3",
+    "category": "扫描",
+    "title": "1948叶面 3r",
+    "revision": 1,
+    "fields": {
+      "edition": "1948",
+      "leaf": "3r",
+      "chapter": "二",
+      "work": "HB-H2",
+      "illustrations": []
+    }
+  },
+  {
+    "id": "S4",
+    "category": "扫描",
+    "title": "1948叶面 3v",
+    "revision": 1,
+    "fields": {
+      "edition": "1948",
+      "leaf": "3v",
+      "chapter": "二",
+      "work": "HB-H2",
+      "illustrations": [
+        "F2"
+      ]
+    }
+  },
+  {
+    "id": "S5",
+    "category": "扫描",
+    "title": "1948叶面 4r",
+    "revision": 1,
+    "fields": {
+      "edition": "1948",
+      "leaf": "4r",
+      "chapter": "三",
+      "work": "HB-H2",
+      "illustrations": []
+    }
+  },
+  {
+    "id": "S6",
+    "category": "扫描",
+    "title": "1948叶面 fold1",
+    "revision": 1,
+    "fields": {
+      "edition": "1948",
+      "leaf": "fold1",
+      "chapter": "三",
+      "work": "HB-H2",
+      "illustrations": [
+        "F3"
+      ]
+    }
+  },
+  {
+    "id": "S7",
+    "category": "扫描",
+    "title": "1948叶面 5r",
+    "revision": 1,
+    "fields": {
+      "edition": "1948",
+      "leaf": "5r",
+      "chapter": "四",
+      "work": "HB-H2",
+      "illustrations": []
+    }
+  },
+  {
+    "id": "S8",
+    "category": "扫描",
+    "title": "1948叶面 5v",
+    "revision": 1,
+    "fields": {
+      "edition": "1948",
+      "leaf": "5v",
+      "chapter": "四",
+      "work": "HB-H2",
+      "illustrations": []
+    }
+  },
+  {
+    "id": "S9",
+    "category": "扫描",
+    "title": "1948叶面 ins1",
+    "revision": 1,
+    "fields": {
+      "edition": "1948",
+      "leaf": "ins1",
+      "chapter": "四",
+      "work": "HB-H2",
+      "illustrations": [
+        "F4"
+      ]
+    }
+  },
+  {
+    "id": "S10",
+    "category": "扫描",
+    "title": "1952第四叶背",
+    "revision": 1,
+    "fields": {
+      "edition": "1952",
+      "leaf": "4v",
+      "chapter": "三",
+      "work": "HB-H2",
+      "illustrations": []
+    }
+  },
+  {
+    "id": "EQ",
+    "category": "馆藏",
+    "title": "4v版本差异",
+    "revision": 1,
+    "fields": {
+      "from_edition": "1948",
+      "to_edition": "1952",
+      "leaf": "4v",
+      "equivalent": false,
+      "reason": "1952删去船坞段"
+    }
+  },
+  {
+    "id": "RIGHT-T",
+    "category": "许可",
+    "title": "文字使用许可",
+    "revision": 1,
+    "fields": {
+      "work": "HB-H2",
+      "medium": "文字",
+      "uses": [
+        "内部研究",
+        "公开展陈"
+      ],
+      "until": "2027-12-31",
+      "credit": "海湾档案馆"
+    }
+  },
+  {
+    "id": "RIGHT-F1",
+    "category": "许可",
+    "title": "照片一",
+    "revision": 1,
+    "fields": {
+      "work": "F1",
+      "uses": [
+        "内部研究",
+        "公开展陈"
+      ],
+      "until": "2027-12-31",
+      "credit": "合成摄影社",
+      "crop": false
+    }
+  },
+  {
+    "id": "RIGHT-F2",
+    "category": "许可",
+    "title": "照片二",
+    "revision": 1,
+    "fields": {
+      "work": "F2",
+      "uses": [
+        "内部研究"
+      ],
+      "until": "2027-12-31",
+      "credit": "合成作者甲",
+      "crop": true
+    }
+  },
+  {
+    "id": "RIGHT-F3",
+    "category": "许可",
+    "title": "折页图",
+    "revision": 1,
+    "fields": {
+      "work": "F3",
+      "uses": [
+        "公开展陈",
+        "内部研究"
+      ],
+      "until": "2027-01-31",
+      "credit": "海湾档案馆",
+      "crop": true
+    }
+  },
+  {
+    "id": "RIGHT-F4",
+    "category": "说明",
+    "title": "插图四权属未明",
+    "revision": 1,
+    "fields": {
+      "work": "F4",
+      "uses": [],
+      "credit": null
+    }
+  }
+]

@@ -1,0 +1,49 @@
+[
+  [
+    "leaf_key",
+    {
+      "label": "12v"
+    },
+    [
+      "leaf",
+      12,
+      "v"
+    ]
+  ],
+  [
+    "coverage",
+    {
+      "expected": [
+        "1r",
+        "1v"
+      ],
+      "observed": [
+        "1r",
+        "1r"
+      ]
+    },
+    {
+      "missing": [
+        "1v"
+      ],
+      "duplicate": [
+        "1r"
+      ],
+      "extra": []
+    }
+  ],
+  [
+    "licensed",
+    {
+      "grant": {
+        "uses": [
+          "研究"
+        ],
+        "until": "2026-11-01"
+      },
+      "use": "研究",
+      "until": "2026-12-01"
+    },
+    false
+  ]
+]

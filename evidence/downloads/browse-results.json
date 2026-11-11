@@ -1,0 +1,329 @@
+{
+  "index_count_text": "共 16 份资料",
+  "browsed_pages": 4,
+  "record_ids_in_index_order": [
+    "S1",
+    "S2",
+    "S3",
+    "S4",
+    "S5",
+    "S6",
+    "S7",
+    "S8",
+    "S9",
+    "S10",
+    "EQ",
+    "RIGHT-T",
+    "RIGHT-F1",
+    "RIGHT-F2",
+    "RIGHT-F3",
+    "RIGHT-F4"
+  ],
+  "records": [
+    {
+      "id": "S1",
+      "category": "扫描",
+      "title": "1948叶面 2r",
+      "revision": 1,
+      "reference": "S1@a2d623ee0a8726cf891c507c0b14c63c2929a3d9c09866a05dd3733d0160c5e7",
+      "record_sha256": "a2d623ee0a8726cf891c507c0b14c63c2929a3d9c09866a05dd3733d0160c5e7",
+      "attachment": "attachments/S1.json",
+      "document": "documents/S1.svg",
+      "document_sha256": "0c65e8b4a9984bceb6ba77795f27c20c0e0c66d47c92c33086cadcf54eb97e71",
+      "fields": {
+        "chapter": "二",
+        "edition": "1948",
+        "illustrations": [],
+        "leaf": "2r",
+        "work": "HB-H2"
+      }
+    },
+    {
+      "id": "S2",
+      "category": "扫描",
+      "title": "1948叶面 2v",
+      "revision": 1,
+      "reference": "S2@8e312a8d7b3a3841bb6ee959bf6cef8ddee9d7028a70bfc768d93e56e70b3688",
+      "record_sha256": "8e312a8d7b3a3841bb6ee959bf6cef8ddee9d7028a70bfc768d93e56e70b3688",
+      "attachment": "attachments/S2.json",
+      "document": "documents/S2.svg",
+      "document_sha256": "6456e0d366954190e323dfba4b36e9e976681cf8cec1a8e267f26d3575c1896a",
+      "fields": {
+        "chapter": "二",
+        "edition": "1948",
+        "illustrations": [
+          "F1"
+        ],
+        "leaf": "2v",
+        "work": "HB-H2"
+      }
+    },
+    {
+      "id": "S3",
+      "category": "扫描",
+      "title": "1948叶面 3r",
+      "revision": 1,
+      "reference": "S3@6f89ae40a300d74535f89fca8007a3dc3c698f730a58b345154ffd3637879968",
+      "record_sha256": "6f89ae40a300d74535f89fca8007a3dc3c698f730a58b345154ffd3637879968",
+      "attachment": "attachments/S3.json",
+      "document": "documents/S3.svg",
+      "document_sha256": "565432523db8bac4d3a9d02a8a9b42fc52cba775363e039c17e706b2056b94b4",
+      "fields": {
+        "chapter": "二",
+        "edition": "1948",
+        "illustrations": [],
+        "leaf": "3r",
+        "work": "HB-H2"
+      }
+    },
+    {
+      "id": "S4",
+      "category": "扫描",
+      "title": "1948叶面 3v",
+      "revision": 1,
+      "reference": "S4@8128e4b7182b36145553a29e2cc481c82ab49225c311f2d59de31eab4dc5ea56",
+      "record_sha256": "8128e4b7182b36145553a29e2cc481c82ab49225c311f2d59de31eab4dc5ea56",
+      "attachment": "attachments/S4.json",
+      "document": "documents/S4.svg",
+      "document_sha256": "3fcae18cb89e2c83845f1e5595b4a196205bdef79164117f41ed042fcb82e0c3",
+      "fields": {
+        "chapter": "二",
+        "edition": "1948",
+        "illustrations": [
+          "F2"
+        ],
+        "leaf": "3v",
+        "work": "HB-H2"
+      }
+    },
+    {
+      "id": "S5",
+      "category": "扫描",
+      "title": "1948叶面 4r",
+      "revision": 1,
+      "reference": "S5@f0846dd0a65a57c5c7a728931595c3013ee5e1a62c39e5e7c574cdf002357e73",
+      "record_sha256": "f0846dd0a65a57c5c7a728931595c3013ee5e1a62c39e5e7c574cdf002357e73",
+      "attachment": "attachments/S5.json",
+      "document": "documents/S5.svg",
+      "document_sha256": "8634375d36589e8d689d9c5820bf5b224f34394ae3e2c8d2f2c8ce7e885432db",
+      "fields": {
+        "chapter": "三",
+        "edition": "1948",
+        "illustrations": [],
+        "leaf": "4r",
+        "work": "HB-H2"
+      }
+    },
+    {
+      "id": "S6",
+      "category": "扫描",
+      "title": "1948叶面 fold1",
+      "revision": 1,
+      "reference": "S6@4a92fc6f4c3f5c846d57799e779186ecb0e604f2b456318695de511658618d74",
+      "record_sha256": "4a92fc6f4c3f5c846d57799e779186ecb0e604f2b456318695de511658618d74",
+      "attachment": "attachments/S6.json",
+      "document": "documents/S6.svg",
+      "document_sha256": "35c68eb9737b27fb1506d9ec33b4e075c80d21135567beca8f96de2a99894982",
+      "fields": {
+        "chapter": "三",
+        "edition": "1948",
+        "illustrations": [
+          "F3"
+        ],
+        "leaf": "fold1",
+        "work": "HB-H2"
+      }
+    },
+    {
+      "id": "S7",
+      "category": "扫描",
+      "title": "1948叶面 5r",
+      "revision": 1,
+      "reference": "S7@557a9eeddd101cd8e0b637b7b53e81e0ac0e11a69c6f2424bbd055c9d60f300f",
+      "record_sha256": "557a9eeddd101cd8e0b637b7b53e81e0ac0e11a69c6f2424bbd055c9d60f300f",
+      "attachment": "attachments/S7.json",
+      "document": "documents/S7.svg",
+      "document_sha256": "4a7a8cbf2b26ce3890cd76706faa1303d69d70dceac0cd4fa6f6187cdba34429",
+      "fields": {
+        "chapter": "四",
+        "edition": "1948",
+        "illustrations": [],
+        "leaf": "5r",
+        "work": "HB-H2"
+      }
+    },
+    {
+      "id": "S8",
+      "category": "扫描",
+      "title": "1948叶面 5v",
+      "revision": 1,
+      "reference": "S8@79daeb32dbfe55cea35f9af7206e6d4c856774f1e23403ac24da472c2db51461",
+      "record_sha256": "79daeb32dbfe55cea35f9af7206e6d4c856774f1e23403ac24da472c2db51461",
+      "attachment": "attachments/S8.json",
+      "document": "documents/S8.svg",
+      "document_sha256": "603374a263f1cd15a67a57f172218683140e633c6c0ac82f323a543294a9879c",
+      "fields": {
+        "chapter": "四",
+        "edition": "1948",
+        "illustrations": [],
+        "leaf": "5v",
+        "work": "HB-H2"
+      }
+    },
+    {
+      "id": "S9",
+      "category": "扫描",
+      "title": "1948叶面 ins1",
+      "revision": 1,
+      "reference": "S9@704c7a12cb2284628495fb27fb85187d20e7ee609c88de3156e448c45a70a3ca",
+      "record_sha256": "704c7a12cb2284628495fb27fb85187d20e7ee609c88de3156e448c45a70a3ca",
+      "attachment": "attachments/S9.json",
+      "document": "documents/S9.svg",
+      "document_sha256": "86720e2e07ae62014f1b0f16daf2fe92d05fef014d0366f47774f0ffd1d03600",
+      "fields": {
+        "chapter": "四",
+        "edition": "1948",
+        "illustrations": [
+          "F4"
+        ],
+        "leaf": "ins1",
+        "work": "HB-H2"
+      }
+    },
+    {
+      "id": "S10",
+      "category": "扫描",
+      "title": "1952第四叶背",
+      "revision": 1,
+      "reference": "S10@c5003b8809007a4d7eeb4f8ac5ba4d26a270ac6fb6052ceb4a41a5cd03e0faa3",
+      "record_sha256": "c5003b8809007a4d7eeb4f8ac5ba4d26a270ac6fb6052ceb4a41a5cd03e0faa3",
+      "attachment": "attachments/S10.json",
+      "document": "documents/S10.svg",
+      "document_sha256": "b470780b3ab4a3e7f3ad2d72be8c0ca0f9b0159d7225361f0b6660dc53dbe631",
+      "fields": {
+        "chapter": "三",
+        "edition": "1952",
+        "illustrations": [],
+        "leaf": "4v",
+        "work": "HB-H2"
+      }
+    },
+    {
+      "id": "EQ",
+      "category": "馆藏",
+      "title": "4v版本差异",
+      "revision": 1,
+      "reference": "EQ@2a40a392c20a19156431fc91665af0d6c7f8b1cdfe7fb0c17c4b25b55c1367c6",
+      "record_sha256": "2a40a392c20a19156431fc91665af0d6c7f8b1cdfe7fb0c17c4b25b55c1367c6",
+      "attachment": "attachments/EQ.json",
+      "document": "documents/EQ.txt",
+      "document_sha256": "61dbb0369a33a22c6509e4e3b94bd34c0704a42f1bd2207d26e16232ca43fefd",
+      "fields": {
+        "equivalent": false,
+        "from_edition": "1948",
+        "leaf": "4v",
+        "reason": "1952删去船坞段",
+        "to_edition": "1952"
+      }
+    },
+    {
+      "id": "RIGHT-T",
+      "category": "许可",
+      "title": "文字使用许可",
+      "revision": 1,
+      "reference": "RIGHT-T@25299eb610de7aaa3f09814965487d27479569ad7e04fcf6bab37f00800292b9",
+      "record_sha256": "25299eb610de7aaa3f09814965487d27479569ad7e04fcf6bab37f00800292b9",
+      "attachment": "attachments/RIGHT-T.json",
+      "document": "documents/RIGHT-T.txt",
+      "document_sha256": "7b984ce16a009fee8af655a5e302b765b99d3fa294b1197a8f3100cabc64a1d3",
+      "fields": {
+        "credit": "海湾档案馆",
+        "medium": "文字",
+        "until": "2027-12-31",
+        "uses": [
+          "内部研究",
+          "公开展陈"
+        ],
+        "work": "HB-H2"
+      }
+    },
+    {
+      "id": "RIGHT-F1",
+      "category": "许可",
+      "title": "照片一",
+      "revision": 1,
+      "reference": "RIGHT-F1@74cc2bb6476cdc0786bdabbcec76168338ac4decebeb5afdedbd3dc88868159f",
+      "record_sha256": "74cc2bb6476cdc0786bdabbcec76168338ac4decebeb5afdedbd3dc88868159f",
+      "attachment": "attachments/RIGHT-F1.json",
+      "document": "documents/RIGHT-F1.txt",
+      "document_sha256": "c0d819cfcf573dbaa1fcc362e7ee94ccfc1c540d88e5891b6a661a43c293bddc",
+      "fields": {
+        "credit": "合成摄影社",
+        "crop": false,
+        "until": "2027-12-31",
+        "uses": [
+          "内部研究",
+          "公开展陈"
+        ],
+        "work": "F1"
+      }
+    },
+    {
+      "id": "RIGHT-F2",
+      "category": "许可",
+      "title": "照片二",
+      "revision": 1,
+      "reference": "RIGHT-F2@42576b26b3d7c600ad4ba7320bf2eacb03ecd45baecf3531cd7ecd963ebb26e7",
+      "record_sha256": "42576b26b3d7c600ad4ba7320bf2eacb03ecd45baecf3531cd7ecd963ebb26e7",
+      "attachment": "attachments/RIGHT-F2.json",
+      "document": "documents/RIGHT-F2.txt",
+      "document_sha256": "377e4556338efa9cfe341961b416d1ae8456ad86996ef844bd62c26ab4c3356a",
+      "fields": {
+        "credit": "合成作者甲",
+        "crop": true,
+        "until": "2027-12-31",
+        "uses": [
+          "内部研究"
+        ],
+        "work": "F2"
+      }
+    },
+    {
+      "id": "RIGHT-F3",
+      "category": "许可",
+      "title": "折页图",
+      "revision": 1,
+      "reference": "RIGHT-F3@e1b34df582ea97acfa9ee918c8fc3ac09245eec46a54b28602720c88a24a5aef",
+      "record_sha256": "e1b34df582ea97acfa9ee918c8fc3ac09245eec46a54b28602720c88a24a5aef",
+      "attachment": "attachments/RIGHT-F3.json",
+      "document": "documents/RIGHT-F3.txt",
+      "document_sha256": "67d8999ad2bc3babad1c02bac5239b2edb948f88128d871b0e59c86ea4f42154",
+      "fields": {
+        "credit": "海湾档案馆",
+        "crop": true,
+        "until": "2027-01-31",
+        "uses": [
+          "公开展陈",
+          "内部研究"
+        ],
+        "work": "F3"
+      }
+    },
+    {
+      "id": "RIGHT-F4",
+      "category": "说明",
+      "title": "插图四权属未明",
+      "revision": 1,
+      "reference": "RIGHT-F4@c8d686f87dfb60bd83cb6d58451c89941e1f2295df2340f33a25fe1c1f51ed72",
+      "record_sha256": "c8d686f87dfb60bd83cb6d58451c89941e1f2295df2340f33a25fe1c1f51ed72",
+      "attachment": "attachments/RIGHT-F4.json",
+      "document": "documents/RIGHT-F4.txt",
+      "document_sha256": "c4f22f5132e450f95a36a9b7dcccb3825962c186de63cc3da1ec788937d456d7",
+      "fields": {
+        "credit": null,
+        "uses": [],
+        "work": "F4"
+      }
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "basis": "期望叶序取自 materials/chapters.csv（1948 完整本 H48），观测叶序取自浏览器实地浏览的门户扫描记录",
+  "domain_coverage_result": {
+    "duplicate": [],
+    "extra": [],
+    "missing": [
+      "4v"
+    ]
+  },
+  "duplicate_scans": [],
+  "equivalence_evidence": {
+    "equivalent": false,
+    "reason": "1952删去船坞段",
+    "record_id": "EQ",
+    "reference": "EQ@2a40a392c20a19156431fc91665af0d6c7f8b1cdfe7fb0c17c4b25b55c1367c6"
+  },
+  "expected_leaves": [
+    "2r",
+    "2v",
+    "3r",
+    "3v",
+    "4r",
+    "4v",
+    "fold1",
+    "5r",
+    "5v",
+    "ins1"
+  ],
+  "extra_edition_scans": [
+    {
+      "disposition": "仅内部研究登记；EQ 证明与 1948 同叶名不等价，禁止用于补缺",
+      "edition": "1952",
+      "leaf": "4v",
+      "record_id": "S10",
+      "reference": "S10@c5003b8809007a4d7eeb4f8ac5ba4d26a270ac6fb6052ceb4a41a5cd03e0faa3"
+    }
+  ],
+  "fold_and_insert_note": "fold1（折页）与 ins1（插页）各为单个叶面身份，不以文件数量计完整；r/v 为同一叶的正反面，印刷页码不作为身份",
+  "missing": [
+    "4v"
+  ],
+  "observed_1948_leaves": [
+    "fold1",
+    "ins1",
+    "2r",
+    "2v",
+    "3r",
+    "3v",
+    "4r",
+    "5r",
+    "5v"
+  ],
+  "per_chapter": [
+    {
+      "chapter": "第二章",
+      "expected": [
+        "2r",
+        "2v",
+        "3r",
+        "3v"
+      ],
+      "missing": [],
+      "observed": [
+        "2r",
+        "2v",
+        "3r",
+        "3v"
+      ]
+    },
+    {
+      "chapter": "第三章",
+      "expected": [
+        "4r",
+        "4v",
+        "fold1"
+      ],
+      "missing": [
+        "4v"
+      ],
+      "observed": [
+        "fold1",
+        "4r"
+      ]
+    },
+    {
+      "chapter": "第四章",
+      "expected": [
+        "5r",
+        "5v",
+        "ins1"
+      ],
+      "missing": [],
+      "observed": [
+        "ins1",
+        "5r",
+        "5v"
+      ]
+    }
+  ]
+}

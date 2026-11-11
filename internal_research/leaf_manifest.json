@@ -1,0 +1,262 @@
+[
+  {
+    "chapter": "第二章",
+    "continuity_note": "1948 本版扫描，正文与所含图版许可均满足公开条件",
+    "document_sha256": "0c65e8b4a9984bceb6ba77795f27c20c0e0c66d47c92c33086cadcf54eb97e71",
+    "edition": "1948",
+    "expected_in": "materials/chapters.csv",
+    "illustrations": [],
+    "image_decisions": {},
+    "internal_asset": "leaves/S1-1948-二-2r.svg",
+    "internal_asset_sha256": "0c65e8b4a9984bceb6ba77795f27c20c0e0c66d47c92c33086cadcf54eb97e71",
+    "leaf": "2r",
+    "leaf_key": [
+      "leaf",
+      2,
+      "r"
+    ],
+    "public_asset": "leaves/S1-1948-二-2r.svg",
+    "public_asset_sha256": "0c65e8b4a9984bceb6ba77795f27c20c0e0c66d47c92c33086cadcf54eb97e71",
+    "scan_record": "S1",
+    "scan_reference": "S1@a2d623ee0a8726cf891c507c0b14c63c2929a3d9c09866a05dd3733d0160c5e7",
+    "status": "observed"
+  },
+  {
+    "chapter": "第二章",
+    "continuity_note": "1948 本版扫描，正文与所含图版许可均满足公开条件",
+    "document_sha256": "6456e0d366954190e323dfba4b36e9e976681cf8cec1a8e267f26d3575c1896a",
+    "edition": "1948",
+    "expected_in": "materials/chapters.csv",
+    "illustrations": [
+      "F1"
+    ],
+    "image_decisions": {
+      "F1": {
+        "internal": true,
+        "notes": [
+          "公开展陈许可覆盖完整展期（至 2027-12-31）"
+        ],
+        "public": true
+      }
+    },
+    "internal_asset": "leaves/S2-1948-二-2v.svg",
+    "internal_asset_sha256": "6456e0d366954190e323dfba4b36e9e976681cf8cec1a8e267f26d3575c1896a",
+    "leaf": "2v",
+    "leaf_key": [
+      "leaf",
+      2,
+      "v"
+    ],
+    "public_asset": "leaves/S2-1948-二-2v.svg",
+    "public_asset_sha256": "6456e0d366954190e323dfba4b36e9e976681cf8cec1a8e267f26d3575c1896a",
+    "scan_record": "S2",
+    "scan_reference": "S2@8e312a8d7b3a3841bb6ee959bf6cef8ddee9d7028a70bfc768d93e56e70b3688",
+    "status": "observed"
+  },
+  {
+    "chapter": "第二章",
+    "continuity_note": "1948 本版扫描，正文与所含图版许可均满足公开条件",
+    "document_sha256": "565432523db8bac4d3a9d02a8a9b42fc52cba775363e039c17e706b2056b94b4",
+    "edition": "1948",
+    "expected_in": "materials/chapters.csv",
+    "illustrations": [],
+    "image_decisions": {},
+    "internal_asset": "leaves/S3-1948-二-3r.svg",
+    "internal_asset_sha256": "565432523db8bac4d3a9d02a8a9b42fc52cba775363e039c17e706b2056b94b4",
+    "leaf": "3r",
+    "leaf_key": [
+      "leaf",
+      3,
+      "r"
+    ],
+    "public_asset": "leaves/S3-1948-二-3r.svg",
+    "public_asset_sha256": "565432523db8bac4d3a9d02a8a9b42fc52cba775363e039c17e706b2056b94b4",
+    "scan_record": "S3",
+    "scan_reference": "S3@6f89ae40a300d74535f89fca8007a3dc3c698f730a58b345154ffd3637879968",
+    "status": "observed"
+  },
+  {
+    "chapter": "第二章",
+    "continuity_note": "F2：许可用途不含公开展陈，内部研究权限不能转为展板公开权限",
+    "document_sha256": "3fcae18cb89e2c83845f1e5595b4a196205bdef79164117f41ed042fcb82e0c3",
+    "edition": "1948",
+    "expected_in": "materials/chapters.csv",
+    "illustrations": [
+      "F2"
+    ],
+    "image_decisions": {
+      "F2": {
+        "internal": true,
+        "notes": [
+          "许可用途不含公开展陈，内部研究权限不能转为展板公开权限"
+        ],
+        "public": false
+      }
+    },
+    "internal_asset": "leaves/S4-1948-二-3v.svg",
+    "internal_asset_sha256": "3fcae18cb89e2c83845f1e5595b4a196205bdef79164117f41ed042fcb82e0c3",
+    "leaf": "3v",
+    "leaf_key": [
+      "leaf",
+      3,
+      "v"
+    ],
+    "public_asset": "leaves/placeholder-S4-3v.svg",
+    "public_asset_sha256": "ff03a2e7ed2db7b406c70dad50906145510974d1f5ae84c4ec140a7b40771c12",
+    "public_text_only_asset": "leaves/S4-1948-二-3v-textonly.svg",
+    "public_text_only_sha256": "ee1599503c657919cb5e6677a2cb961ee962dc5bc8e9c68bf254b1346cfd10c4",
+    "scan_record": "S4",
+    "scan_reference": "S4@8128e4b7182b36145553a29e2cc481c82ab49225c311f2d59de31eab4dc5ea56",
+    "status": "observed"
+  },
+  {
+    "chapter": "第三章",
+    "continuity_note": "1948 本版扫描，正文与所含图版许可均满足公开条件",
+    "document_sha256": "8634375d36589e8d689d9c5820bf5b224f34394ae3e2c8d2f2c8ce7e885432db",
+    "edition": "1948",
+    "expected_in": "materials/chapters.csv",
+    "illustrations": [],
+    "image_decisions": {},
+    "internal_asset": "leaves/S5-1948-三-4r.svg",
+    "internal_asset_sha256": "8634375d36589e8d689d9c5820bf5b224f34394ae3e2c8d2f2c8ce7e885432db",
+    "leaf": "4r",
+    "leaf_key": [
+      "leaf",
+      4,
+      "r"
+    ],
+    "public_asset": "leaves/S5-1948-三-4r.svg",
+    "public_asset_sha256": "8634375d36589e8d689d9c5820bf5b224f34394ae3e2c8d2f2c8ce7e885432db",
+    "scan_record": "S5",
+    "scan_reference": "S5@f0846dd0a65a57c5c7a728931595c3013ee5e1a62c39e5e7c574cdf002357e73",
+    "status": "observed"
+  },
+  {
+    "chapter": "第三章",
+    "continuity_note": "存在 1952 异版 S10（S10@c5003b8809007a4d7eeb4f8ac5ba4d26a270ac6fb6052ceb4a41a5cd03e0faa3），但馆藏等价记录 EQ（EQ@2a40a392c20a19156431fc91665af0d6c7f8b1cdfe7fb0c17c4b25b55c1367c6）证明 equivalent=false：1952删去船坞段，不得替代；该异版仅登记于内部研究目录",
+    "edition": "1948",
+    "expected_in": "materials/chapters.csv",
+    "internal_asset": null,
+    "leaf": "4v",
+    "leaf_key": [
+      "leaf",
+      4,
+      "v"
+    ],
+    "public_asset": "leaves/placeholder-4v.svg",
+    "public_asset_sha256": "e40f58b9a5b0f3abd53ff8b2bddb8b6d461d495cd7b9e5553ae2ab72e226a6a1",
+    "scan_record": null,
+    "scan_reference": null,
+    "status": "missing"
+  },
+  {
+    "chapter": "第三章",
+    "continuity_note": "F3：含公开展陈用途但许可至 2027-01-31，早于展期末日 2027-02-28，不覆盖整个展期，公开目录暂不收录",
+    "document_sha256": "35c68eb9737b27fb1506d9ec33b4e075c80d21135567beca8f96de2a99894982",
+    "edition": "1948",
+    "expected_in": "materials/chapters.csv",
+    "illustrations": [
+      "F3"
+    ],
+    "image_decisions": {
+      "F3": {
+        "internal": true,
+        "notes": [
+          "含公开展陈用途但许可至 2027-01-31，早于展期末日 2027-02-28，不覆盖整个展期，公开目录暂不收录"
+        ],
+        "public": false
+      }
+    },
+    "internal_asset": "leaves/S6-1948-三-fold1.svg",
+    "internal_asset_sha256": "35c68eb9737b27fb1506d9ec33b4e075c80d21135567beca8f96de2a99894982",
+    "leaf": "fold1",
+    "leaf_key": [
+      "fold",
+      1
+    ],
+    "public_asset": "leaves/placeholder-S6-fold1.svg",
+    "public_asset_sha256": "0817c7bcb8353d62a099d32c58bf45a0004337aae140c2b9ea62498498a778ba",
+    "public_text_only_asset": "leaves/S6-1948-三-fold1-textonly.svg",
+    "public_text_only_sha256": "a45e15585e1f2b2b5bdf946ca239aed2bfebc7d00167e2161dd2e1b55fcf070b",
+    "scan_record": "S6",
+    "scan_reference": "S6@4a92fc6f4c3f5c846d57799e779186ecb0e604f2b456318695de511658618d74",
+    "status": "observed"
+  },
+  {
+    "chapter": "第四章",
+    "continuity_note": "1948 本版扫描，正文与所含图版许可均满足公开条件",
+    "document_sha256": "4a7a8cbf2b26ce3890cd76706faa1303d69d70dceac0cd4fa6f6187cdba34429",
+    "edition": "1948",
+    "expected_in": "materials/chapters.csv",
+    "illustrations": [],
+    "image_decisions": {},
+    "internal_asset": "leaves/S7-1948-四-5r.svg",
+    "internal_asset_sha256": "4a7a8cbf2b26ce3890cd76706faa1303d69d70dceac0cd4fa6f6187cdba34429",
+    "leaf": "5r",
+    "leaf_key": [
+      "leaf",
+      5,
+      "r"
+    ],
+    "public_asset": "leaves/S7-1948-四-5r.svg",
+    "public_asset_sha256": "4a7a8cbf2b26ce3890cd76706faa1303d69d70dceac0cd4fa6f6187cdba34429",
+    "scan_record": "S7",
+    "scan_reference": "S7@557a9eeddd101cd8e0b637b7b53e81e0ac0e11a69c6f2424bbd055c9d60f300f",
+    "status": "observed"
+  },
+  {
+    "chapter": "第四章",
+    "continuity_note": "1948 本版扫描，正文与所含图版许可均满足公开条件",
+    "document_sha256": "603374a263f1cd15a67a57f172218683140e633c6c0ac82f323a543294a9879c",
+    "edition": "1948",
+    "expected_in": "materials/chapters.csv",
+    "illustrations": [],
+    "image_decisions": {},
+    "internal_asset": "leaves/S8-1948-四-5v.svg",
+    "internal_asset_sha256": "603374a263f1cd15a67a57f172218683140e633c6c0ac82f323a543294a9879c",
+    "leaf": "5v",
+    "leaf_key": [
+      "leaf",
+      5,
+      "v"
+    ],
+    "public_asset": "leaves/S8-1948-四-5v.svg",
+    "public_asset_sha256": "603374a263f1cd15a67a57f172218683140e633c6c0ac82f323a543294a9879c",
+    "scan_record": "S8",
+    "scan_reference": "S8@79daeb32dbfe55cea35f9af7206e6d4c856774f1e23403ac24da472c2db51461",
+    "status": "observed"
+  },
+  {
+    "chapter": "第四章",
+    "continuity_note": "F4：RIGHT-F4 记载权属未明（uses 为空、无署名主体），任何用途均未获准",
+    "document_sha256": "86720e2e07ae62014f1b0f16daf2fe92d05fef014d0366f47774f0ffd1d03600",
+    "edition": "1948",
+    "expected_in": "materials/chapters.csv",
+    "illustrations": [
+      "F4"
+    ],
+    "image_decisions": {
+      "F4": {
+        "internal": false,
+        "notes": [
+          "RIGHT-F4 记载权属未明（uses 为空、无署名主体），任何用途均未获准"
+        ],
+        "public": false
+      }
+    },
+    "internal_asset": "leaves/S9-1948-四-ins1.svg",
+    "internal_asset_sha256": "86720e2e07ae62014f1b0f16daf2fe92d05fef014d0366f47774f0ffd1d03600",
+    "leaf": "ins1",
+    "leaf_key": [
+      "ins",
+      1
+    ],
+    "public_asset": "leaves/placeholder-S9-ins1.svg",
+    "public_asset_sha256": "22b3f54b44eb23b3036cbde327cdfcf881a38f529d0d4209c5ef0cdb2dac07e7",
+    "public_text_only_asset": "leaves/S9-1948-四-ins1-textonly.svg",
+    "public_text_only_sha256": "e5d67865dfdf68d07ae00e35910f95e028175c184515ee618fa0ac8f049ded54",
+    "scan_record": "S9",
+    "scan_reference": "S9@704c7a12cb2284628495fb27fb85187d20e7ee609c88de3156e448c45a70a3ca",
+    "status": "observed"
+  }
+]

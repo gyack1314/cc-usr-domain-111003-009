@@ -1,0 +1,16 @@
+{
+  "category": "许可",
+  "fields": {
+    "credit": "海湾档案馆",
+    "medium": "文字",
+    "until": "2027-12-31",
+    "uses": [
+      "内部研究",
+      "公开展陈"
+    ],
+    "work": "HB-H2"
+  },
+  "id": "RIGHT-T",
+  "revision": 1,
+  "title": "文字使用许可"
+}

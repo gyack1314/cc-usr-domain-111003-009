@@ -1,0 +1,87 @@
+[
+  {
+    "path": "README.md",
+    "sha256": "270a6ca1288e46ad61b84283e20a46c0861825b336a405b93d0abfb02bd28798",
+    "size": 2762
+  },
+  {
+    "path": "image_manifest.json",
+    "sha256": "b5eeeb181c5cb400a23a128ade82272e9315b59892471642d2a350e868a0f553",
+    "size": 2674
+  },
+  {
+    "path": "leaf_manifest.json",
+    "sha256": "a45af576c9558909c80473fd4f674ea3684b81feff915694fe5ae323c0dea8b7",
+    "size": 9956
+  },
+  {
+    "path": "leaves/S1-1948-二-2r.svg",
+    "sha256": "0c65e8b4a9984bceb6ba77795f27c20c0e0c66d47c92c33086cadcf54eb97e71",
+    "size": 985
+  },
+  {
+    "path": "leaves/S2-1948-二-2v.svg",
+    "sha256": "6456e0d366954190e323dfba4b36e9e976681cf8cec1a8e267f26d3575c1896a",
+    "size": 960
+  },
+  {
+    "path": "leaves/S3-1948-二-3r.svg",
+    "sha256": "565432523db8bac4d3a9d02a8a9b42fc52cba775363e039c17e706b2056b94b4",
+    "size": 985
+  },
+  {
+    "path": "leaves/S4-1948-二-3v-textonly.svg",
+    "sha256": "ee1599503c657919cb5e6677a2cb961ee962dc5bc8e9c68bf254b1346cfd10c4",
+    "size": 1384
+  },
+  {
+    "path": "leaves/S5-1948-三-4r.svg",
+    "sha256": "8634375d36589e8d689d9c5820bf5b224f34394ae3e2c8d2f2c8ce7e885432db",
+    "size": 985
+  },
+  {
+    "path": "leaves/S6-1948-三-fold1-textonly.svg",
+    "sha256": "a45e15585e1f2b2b5bdf946ca239aed2bfebc7d00167e2161dd2e1b55fcf070b",
+    "size": 1491
+  },
+  {
+    "path": "leaves/S7-1948-四-5r.svg",
+    "sha256": "4a7a8cbf2b26ce3890cd76706faa1303d69d70dceac0cd4fa6f6187cdba34429",
+    "size": 985
+  },
+  {
+    "path": "leaves/S8-1948-四-5v.svg",
+    "sha256": "603374a263f1cd15a67a57f172218683140e633c6c0ac82f323a543294a9879c",
+    "size": 985
+  },
+  {
+    "path": "leaves/S9-1948-四-ins1-textonly.svg",
+    "sha256": "e5d67865dfdf68d07ae00e35910f95e028175c184515ee618fa0ac8f049ded54",
+    "size": 1452
+  },
+  {
+    "path": "leaves/placeholder-4v.svg",
+    "sha256": "e40f58b9a5b0f3abd53ff8b2bddb8b6d461d495cd7b9e5553ae2ab72e226a6a1",
+    "size": 1507
+  },
+  {
+    "path": "leaves/placeholder-S4-3v.svg",
+    "sha256": "ff03a2e7ed2db7b406c70dad50906145510974d1f5ae84c4ec140a7b40771c12",
+    "size": 1007
+  },
+  {
+    "path": "leaves/placeholder-S6-fold1.svg",
+    "sha256": "0817c7bcb8353d62a099d32c58bf45a0004337aae140c2b9ea62498498a778ba",
+    "size": 1114
+  },
+  {
+    "path": "leaves/placeholder-S9-ins1.svg",
+    "sha256": "22b3f54b44eb23b3036cbde327cdfcf881a38f529d0d4209c5ef0cdb2dac07e7",
+    "size": 1075
+  },
+  {
+    "path": "策展说明.md",
+    "sha256": "e73595b4d4a44d7b0bd149b81a9cc2e3da9803ef207f8f63a0e1632162717088",
+    "size": 6291
+  }
+]

@@ -1,0 +1,232 @@
+{
+  "exhibition_window": [
+    "2026-12-01",
+    "2027-02-28"
+  ],
+  "generated_from": [
+    "exhibition_assets/leaf_manifest.json",
+    "exhibition_assets/image_manifest.json",
+    "evidence/downloads/browse-results.json"
+  ],
+  "images": [
+    {
+      "affected_leaves": [
+        "第二章2v"
+      ],
+      "credit": "合成摄影社",
+      "crop_allowed": false,
+      "internal_eligible": true,
+      "public_eligible": true,
+      "rework_if_changed": "F1 已公开可用；若许可变更，影响 S2/2v，须同步更新署名「合成摄影社」、禁止裁切条件",
+      "rights_record": "RIGHT-F1",
+      "rights_reference": "RIGHT-F1@74cc2bb6476cdc0786bdabbcec76168338ac4decebeb5afdedbd3dc88868159f",
+      "until": "2027-12-31",
+      "work": "F1"
+    },
+    {
+      "affected_leaves": [
+        "第二章3v"
+      ],
+      "credit": "合成作者甲",
+      "crop_allowed": true,
+      "internal_eligible": true,
+      "public_eligible": false,
+      "rework_if_changed": "若取得 F2 公开展陈许可（覆盖全展期、注明署名/裁切）：重新评估 S4/3v 公开",
+      "rights_record": "RIGHT-F2",
+      "rights_reference": "RIGHT-F2@42576b26b3d7c600ad4ba7320bf2eacb03ecd45baecf3531cd7ecd963ebb26e7",
+      "until": "2027-12-31",
+      "work": "F2"
+    },
+    {
+      "affected_leaves": [
+        "第三章fold1"
+      ],
+      "credit": "海湾档案馆",
+      "crop_allowed": true,
+      "internal_eligible": true,
+      "public_eligible": false,
+      "rework_if_changed": "若 RIGHT-F3 续权至不早于 2027-02-28：重新评估 S6/fold1 公开，替换占位为原页",
+      "rights_record": "RIGHT-F3",
+      "rights_reference": "RIGHT-F3@e1b34df582ea97acfa9ee918c8fc3ac09245eec46a54b28602720c88a24a5aef",
+      "until": "2027-01-31",
+      "work": "F3"
+    },
+    {
+      "affected_leaves": [
+        "第四章ins1"
+      ],
+      "credit": null,
+      "crop_allowed": null,
+      "internal_eligible": false,
+      "public_eligible": false,
+      "rework_if_changed": "F4 须先查明权利人并取得许可；在此之前 S9/ins1 维持留白，内部亦无使用依据",
+      "rights_record": "RIGHT-F4",
+      "rights_reference": "RIGHT-F4@c8d686f87dfb60bd83cb6d58451c89941e1f2295df2340f33a25fe1c1f51ed72",
+      "until": null,
+      "work": "F4"
+    }
+  ],
+  "leaves": [
+    {
+      "chapter": "第二章",
+      "continuity_note": "1948 本版扫描，正文与所含图版许可均满足公开条件",
+      "edition": "1948",
+      "illustrations": [],
+      "internal_asset": "leaves/S1-1948-二-2r.svg",
+      "leaf": "2r",
+      "public_asset": "leaves/S1-1948-二-2r.svg",
+      "public_text_only_asset": null,
+      "scan_record": "S1",
+      "scan_reference": "S1@a2d623ee0a8726cf891c507c0b14c63c2929a3d9c09866a05dd3733d0160c5e7",
+      "status": "observed"
+    },
+    {
+      "chapter": "第二章",
+      "continuity_note": "1948 本版扫描，正文与所含图版许可均满足公开条件",
+      "edition": "1948",
+      "illustrations": [
+        "F1"
+      ],
+      "internal_asset": "leaves/S2-1948-二-2v.svg",
+      "leaf": "2v",
+      "public_asset": "leaves/S2-1948-二-2v.svg",
+      "public_text_only_asset": null,
+      "scan_record": "S2",
+      "scan_reference": "S2@8e312a8d7b3a3841bb6ee959bf6cef8ddee9d7028a70bfc768d93e56e70b3688",
+      "status": "observed"
+    },
+    {
+      "chapter": "第二章",
+      "continuity_note": "1948 本版扫描，正文与所含图版许可均满足公开条件",
+      "edition": "1948",
+      "illustrations": [],
+      "internal_asset": "leaves/S3-1948-二-3r.svg",
+      "leaf": "3r",
+      "public_asset": "leaves/S3-1948-二-3r.svg",
+      "public_text_only_asset": null,
+      "scan_record": "S3",
+      "scan_reference": "S3@6f89ae40a300d74535f89fca8007a3dc3c698f730a58b345154ffd3637879968",
+      "status": "observed"
+    },
+    {
+      "chapter": "第二章",
+      "continuity_note": "F2：许可用途不含公开展陈，内部研究权限不能转为展板公开权限",
+      "edition": "1948",
+      "illustrations": [
+        "F2"
+      ],
+      "internal_asset": "leaves/S4-1948-二-3v.svg",
+      "leaf": "3v",
+      "public_asset": "leaves/placeholder-S4-3v.svg",
+      "public_text_only_asset": "leaves/S4-1948-二-3v-textonly.svg",
+      "scan_record": "S4",
+      "scan_reference": "S4@8128e4b7182b36145553a29e2cc481c82ab49225c311f2d59de31eab4dc5ea56",
+      "status": "observed"
+    },
+    {
+      "chapter": "第三章",
+      "continuity_note": "1948 本版扫描，正文与所含图版许可均满足公开条件",
+      "edition": "1948",
+      "illustrations": [],
+      "internal_asset": "leaves/S5-1948-三-4r.svg",
+      "leaf": "4r",
+      "public_asset": "leaves/S5-1948-三-4r.svg",
+      "public_text_only_asset": null,
+      "scan_record": "S5",
+      "scan_reference": "S5@f0846dd0a65a57c5c7a728931595c3013ee5e1a62c39e5e7c574cdf002357e73",
+      "status": "observed"
+    },
+    {
+      "chapter": "第三章",
+      "continuity_note": "存在 1952 异版 S10（S10@c5003b8809007a4d7eeb4f8ac5ba4d26a270ac6fb6052ceb4a41a5cd03e0faa3），但馆藏等价记录 EQ（EQ@2a40a392c20a19156431fc91665af0d6c7f8b1cdfe7fb0c17c4b25b55c1367c6）证明 equivalent=false：1952删去船坞段，不得替代；该异版仅登记于内部研究目录",
+      "edition": "1948",
+      "illustrations": [],
+      "internal_asset": null,
+      "leaf": "4v",
+      "public_asset": "leaves/placeholder-4v.svg",
+      "public_text_only_asset": null,
+      "scan_record": null,
+      "scan_reference": null,
+      "status": "missing"
+    },
+    {
+      "chapter": "第三章",
+      "continuity_note": "F3：含公开展陈用途但许可至 2027-01-31，早于展期末日 2027-02-28，不覆盖整个展期，公开目录暂不收录",
+      "edition": "1948",
+      "illustrations": [
+        "F3"
+      ],
+      "internal_asset": "leaves/S6-1948-三-fold1.svg",
+      "leaf": "fold1",
+      "public_asset": "leaves/placeholder-S6-fold1.svg",
+      "public_text_only_asset": "leaves/S6-1948-三-fold1-textonly.svg",
+      "scan_record": "S6",
+      "scan_reference": "S6@4a92fc6f4c3f5c846d57799e779186ecb0e604f2b456318695de511658618d74",
+      "status": "observed"
+    },
+    {
+      "chapter": "第四章",
+      "continuity_note": "1948 本版扫描，正文与所含图版许可均满足公开条件",
+      "edition": "1948",
+      "illustrations": [],
+      "internal_asset": "leaves/S7-1948-四-5r.svg",
+      "leaf": "5r",
+      "public_asset": "leaves/S7-1948-四-5r.svg",
+      "public_text_only_asset": null,
+      "scan_record": "S7",
+      "scan_reference": "S7@557a9eeddd101cd8e0b637b7b53e81e0ac0e11a69c6f2424bbd055c9d60f300f",
+      "status": "observed"
+    },
+    {
+      "chapter": "第四章",
+      "continuity_note": "1948 本版扫描，正文与所含图版许可均满足公开条件",
+      "edition": "1948",
+      "illustrations": [],
+      "internal_asset": "leaves/S8-1948-四-5v.svg",
+      "leaf": "5v",
+      "public_asset": "leaves/S8-1948-四-5v.svg",
+      "public_text_only_asset": null,
+      "scan_record": "S8",
+      "scan_reference": "S8@79daeb32dbfe55cea35f9af7206e6d4c856774f1e23403ac24da472c2db51461",
+      "status": "observed"
+    },
+    {
+      "chapter": "第四章",
+      "continuity_note": "F4：RIGHT-F4 记载权属未明（uses 为空、无署名主体），任何用途均未获准",
+      "edition": "1948",
+      "illustrations": [
+        "F4"
+      ],
+      "internal_asset": "leaves/S9-1948-四-ins1.svg",
+      "leaf": "ins1",
+      "public_asset": "leaves/placeholder-S9-ins1.svg",
+      "public_text_only_asset": "leaves/S9-1948-四-ins1-textonly.svg",
+      "scan_record": "S9",
+      "scan_reference": "S9@704c7a12cb2284628495fb27fb85187d20e7ee609c88de3156e448c45a70a3ca",
+      "status": "observed"
+    }
+  ],
+  "rework_triggers": [
+    {
+      "action": "F1 已公开可用；若许可变更，影响 S2/2v，须同步更新署名「合成摄影社」、禁止裁切条件",
+      "work": "F1"
+    },
+    {
+      "action": "若取得 F2 公开展陈许可（覆盖全展期、注明署名/裁切）：重新评估 S4/3v 公开",
+      "work": "F2"
+    },
+    {
+      "action": "若 RIGHT-F3 续权至不早于 2027-02-28：重新评估 S6/fold1 公开，替换占位为原页",
+      "work": "F3"
+    },
+    {
+      "action": "F4 须先查明权利人并取得许可；在此之前 S9/ins1 维持留白，内部亦无使用依据",
+      "work": "F4"
+    },
+    {
+      "action": "仅当出现 1948 4v 原叶或馆藏出具 equivalent=true 的等价证明时，才可替换 placeholder-4v；当前 EQ 证明 1952 S10 不等价，维持留白",
+      "work": "leaf:4v"
+    }
+  ],
+  "work": "HB-H2"
+}

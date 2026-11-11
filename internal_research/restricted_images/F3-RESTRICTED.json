@@ -1,0 +1,14 @@
+{
+  "credit_required": "海湾档案馆",
+  "crop_allowed": true,
+  "notes": [
+    "含公开展陈用途但许可至 2027-01-31，早于展期末日 2027-02-28，不覆盖整个展期，公开目录暂不收录"
+  ],
+  "restriction": "内部研究专用，禁止经销、外部印刷与任何公开展陈",
+  "rights_reference": "RIGHT-F3@e1b34df582ea97acfa9ee918c8fc3ac09245eec46a54b28602720c88a24a5aef",
+  "source_leaves": [
+    "leaves/S6-1948-三-fold1.svg"
+  ],
+  "until": "2027-01-31",
+  "work": "F3"
+}

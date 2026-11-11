@@ -1,0 +1,13 @@
+{
+  "category": "馆藏",
+  "fields": {
+    "equivalent": false,
+    "from_edition": "1948",
+    "leaf": "4v",
+    "reason": "1952删去船坞段",
+    "to_edition": "1952"
+  },
+  "id": "EQ",
+  "revision": 1,
+  "title": "4v版本差异"
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "appears_on_scans": [
+      "S2"
+    ],
+    "credit_required": "合成摄影社",
+    "crop_allowed": false,
+    "decision_notes": [
+      "公开展陈许可覆盖完整展期（至 2027-12-31）"
+    ],
+    "internal_eligible_today": true,
+    "public_eligible_full_exhibition": true,
+    "public_handling": "可入公开目录；署名「合成摄影社」；禁止裁切",
+    "rights_record": "RIGHT-F1",
+    "rights_reference": "RIGHT-F1@74cc2bb6476cdc0786bdabbcec76168338ac4decebeb5afdedbd3dc88868159f",
+    "until": "2027-12-31",
+    "uses_granted": [
+      "内部研究",
+      "公开展陈"
+    ],
+    "work": "F1"
+  },
+  {
+    "appears_on_scans": [
+      "S4"
+    ],
+    "credit_required": "合成作者甲",
+    "crop_allowed": true,
+    "decision_notes": [
+      "许可用途不含公开展陈，内部研究权限不能转为展板公开权限"
+    ],
+    "internal_eligible_today": true,
+    "public_eligible_full_exhibition": false,
+    "public_handling": "不进入公开目录；公开图位以文字占位留白，建议替换为获准素材",
+    "rights_record": "RIGHT-F2",
+    "rights_reference": "RIGHT-F2@42576b26b3d7c600ad4ba7320bf2eacb03ecd45baecf3531cd7ecd963ebb26e7",
+    "until": "2027-12-31",
+    "uses_granted": [
+      "内部研究"
+    ],
+    "work": "F2"
+  },
+  {
+    "appears_on_scans": [
+      "S6"
+    ],
+    "credit_required": "海湾档案馆",
+    "crop_allowed": true,
+    "decision_notes": [
+      "含公开展陈用途但许可至 2027-01-31，早于展期末日 2027-02-28，不覆盖整个展期，公开目录暂不收录"
+    ],
+    "internal_eligible_today": true,
+    "public_eligible_full_exhibition": false,
+    "public_handling": "不进入公开目录；公开图位以文字占位留白，建议替换为获准素材",
+    "rights_record": "RIGHT-F3",
+    "rights_reference": "RIGHT-F3@e1b34df582ea97acfa9ee918c8fc3ac09245eec46a54b28602720c88a24a5aef",
+    "until": "2027-01-31",
+    "uses_granted": [
+      "公开展陈",
+      "内部研究"
+    ],
+    "work": "F3"
+  },
+  {
+    "appears_on_scans": [
+      "S9"
+    ],
+    "credit_required": null,
+    "crop_allowed": null,
+    "decision_notes": [
+      "RIGHT-F4 记载权属未明（uses 为空、无署名主体），任何用途均未获准"
+    ],
+    "internal_eligible_today": false,
+    "public_eligible_full_exhibition": false,
+    "public_handling": "不进入公开目录；公开图位以文字占位留白，建议替换为获准素材",
+    "rights_record": "RIGHT-F4",
+    "rights_reference": "RIGHT-F4@c8d686f87dfb60bd83cb6d58451c89941e1f2295df2340f33a25fe1c1f51ed72",
+    "until": null,
+    "uses_granted": [],
+    "work": "F4"
+  }
+]

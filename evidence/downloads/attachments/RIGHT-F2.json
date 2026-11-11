@@ -1,0 +1,15 @@
+{
+  "category": "许可",
+  "fields": {
+    "credit": "合成作者甲",
+    "crop": true,
+    "until": "2027-12-31",
+    "uses": [
+      "内部研究"
+    ],
+    "work": "F2"
+  },
+  "id": "RIGHT-F2",
+  "revision": 1,
+  "title": "照片二"
+}

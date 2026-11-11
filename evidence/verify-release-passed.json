@@ -1,0 +1,42 @@
+{
+  "checked_public_files": [
+    "README.md",
+    "image_manifest.json",
+    "leaf_manifest.json",
+    "leaves/S1-1948-二-2r.svg",
+    "leaves/S2-1948-二-2v.svg",
+    "leaves/S3-1948-二-3r.svg",
+    "leaves/S4-1948-二-3v-textonly.svg",
+    "leaves/S5-1948-三-4r.svg",
+    "leaves/S6-1948-三-fold1-textonly.svg",
+    "leaves/S7-1948-四-5r.svg",
+    "leaves/S8-1948-四-5v.svg",
+    "leaves/S9-1948-四-ins1-textonly.svg",
+    "leaves/placeholder-4v.svg",
+    "leaves/placeholder-S4-3v.svg",
+    "leaves/placeholder-S6-fold1.svg",
+    "leaves/placeholder-S9-ins1.svg",
+    "策展说明.md"
+  ],
+  "checked_internal_files": [
+    "README.md",
+    "continuity.json",
+    "image_manifest.json",
+    "leaf_manifest.json",
+    "leaves/S1-1948-二-2r.svg",
+    "leaves/S10-1952-三-4v.svg",
+    "leaves/S2-1948-二-2v.svg",
+    "leaves/S3-1948-二-3r.svg",
+    "leaves/S4-1948-二-3v.svg",
+    "leaves/S5-1948-三-4r.svg",
+    "leaves/S6-1948-三-fold1.svg",
+    "leaves/S7-1948-四-5r.svg",
+    "leaves/S8-1948-四-5v.svg",
+    "leaves/S9-1948-四-ins1.svg",
+    "restricted_images/F2-RESTRICTED.json",
+    "restricted_images/F3-RESTRICTED.json",
+    "restricted_images/F4-RESTRICTED.json"
+  ],
+  "issues": [],
+  "passed": true
+}

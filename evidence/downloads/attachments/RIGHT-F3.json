@@ -1,0 +1,16 @@
+{
+  "category": "许可",
+  "fields": {
+    "credit": "海湾档案馆",
+    "crop": true,
+    "until": "2027-01-31",
+    "uses": [
+      "公开展陈",
+      "内部研究"
+    ],
+    "work": "F3"
+  },
+  "id": "RIGHT-F3",
+  "revision": 1,
+  "title": "折页图"
+}
